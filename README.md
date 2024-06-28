@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marie
 
-You can reach me at ![Linkedin](https://www.linkedin.com/in/marie-le-goue/)
+You can reach me at [Linkedin](https://www.linkedin.com/in/marie-le-goue/)
 
 ![](https://komarev.com/ghpvc/?username=mlegoue)
 
